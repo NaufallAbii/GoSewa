@@ -8,7 +8,7 @@ function App() {
       <h1>GoSewa</h1>
       <h1>NAMA : AHMAD NAUFAL ABIYYU</h1>
       <h1>NIM : 22.11.4963</h1><br />
-      <h1>NAMA : Cokorda Gde Lanang Pringandana</h1>
+      <h1>NAMA : COKORDA GDE LANANG PRINGANDANA</h1>
       <h1>NIM : 22.11.4952</h1><br />
       <h1>NAMA : JOSHUA JULIANDIKA PUTRA</h1>
       <h1>NIM : 22.11.4941</h1>
